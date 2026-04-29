@@ -1,0 +1,4 @@
+interface:
+  display_name: "Generate Manga Page"
+  short_description: "Manga pages with img-memory versions, variants, and evolutions."
+  default_prompt: "Use $generatemangapage to create the next manga page. Resolve each character's asset group and version first, generate any missing img-memory references, then use those references to keep characters, variants, and evolutions consistent."
